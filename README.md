@@ -1,2 +1,2 @@
-# Purchase Slack Command
+# purchase-slack-command
 Purchase Slack command
